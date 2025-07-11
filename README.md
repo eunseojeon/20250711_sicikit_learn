@@ -1,8 +1,7 @@
 # 20250711_sicikit_learn
 
 ## **정리 출처**
-- 교수님 ppt
-- [scikit_learn_intro.pptx](./scikit_learn_intro.pptx)
+- 교수님 ppt [scikit_learn_intro.pptx](./scikit_learn_intro.pptx)
 
 ## 1️⃣ 머신러닝 & 데이터 분석
 ### 머신러닝 기본 개념
