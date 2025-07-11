@@ -46,7 +46,11 @@
 
 **Advantages of ML-based data analysis**
 - 대규모 & 다차원 데이터 처리에 유리함 
-- 데이터가 쌓일 수록, 학습이 진행될수록 모델 성능 향상
+- 데이터가 쌓일 수록, 학습이 진행될수록 모델 성능 향상
 - 데이터에 숨겨진 패턴 발견에 유리함 
+
+**머신러닝(ML) 프로세스 용어 정리**
+
+<img width="745" height="398" alt="스크린샷 2025-07-11 14 08 17" src="https://github.com/user-attachments/assets/f3914270-017f-4a75-9af3-d44978dd43e1" />
 
 
