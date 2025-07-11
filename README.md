@@ -13,3 +13,10 @@
 <img width="902" height="508" alt="스크린샷 2025-07-11 11 57 42" src="https://github.com/user-attachments/assets/674e216a-fbbe-4484-96af-d47bedfc86b6" />
 
 <img width="807" height="373" alt="image" src="https://github.com/user-attachments/assets/c3b5cacb-0a38-45f8-a5b1-462257f85b0e" />
+
+**머신러닝 워크플로우 단계별 상세**
+1. 데이터 수집: 데이터 소스로부너 학습에 필요한 데이터 확보(라벨링 포함)
+2. 데이터 전처리 및 변환: 데이터를 학습에 적합한 형태로 변환
+3. 모델 학습: 알고리즘 수행 및 모델 학습, 데이터의 숨겨진 패턴 파악
+4. 모델 평가: 학습된 모델의 예측 성능 평가
+5. 성능 개선: 모델 최적화를 통한 성능 향상
