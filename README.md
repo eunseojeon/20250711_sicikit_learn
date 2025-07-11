@@ -10,3 +10,5 @@
 - 머신러닝은 컴퓨터 프로그램이 경험을 통해 자동으로 성능을 개선하도록 하는 연구 분야이다 
 - Stanford University’s “Introduction to Machine Learning” by Nils J. Nilsson 
 
+<img width="902" height="508" alt="스크린샷 2025-07-11 11 57 42" src="https://github.com/user-attachments/assets/674e216a-fbbe-4484-96af-d47bedfc86b6" />
+
