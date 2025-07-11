@@ -67,4 +67,7 @@
 
 <img width="746" height="172" alt="스크린샷 2025-07-11 14 12 13" src="https://github.com/user-attachments/assets/0d39dbcd-0c74-4714-9ac8-6a88358b40d4" />
 
+- Email Spam Detection: 이메일 텍스트와 메타데이터를 입력받아 스팸/비스팸으로 분류
+- Digit recognition: 숫자 이미지의 픽셀값을 입력받아 0~9 중 하나로 분류
+- Medical diagnosis: 환자 증상과 검사 결과를 입력받아 건강/질병A/질병B 등으로 분류
 
