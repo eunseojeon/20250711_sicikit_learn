@@ -1,6 +1,6 @@
 # 20250711_sicikit_learn
 
-**출처**
+## **출처**
 - [scikit_learn_intro.pptx](./scikit_learn_intro.pptx)
 
 ## 1️⃣ 머신러닝 & 데이터 분석
