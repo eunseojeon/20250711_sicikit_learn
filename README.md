@@ -83,6 +83,10 @@
 - k: 인접 샘플 수
 - Weights: 거리 가중치 적용 방식
 
+<img width="271" height="200" alt="스크린샷 2025-07-11 15 29 31" src="https://github.com/user-attachments/assets/a9cef983-3d5b-4dde-b593-70c1736595a6" />
+
+<img width="255" height="130" alt="스크린샷 2025-07-11 15 30 09" src="https://github.com/user-attachments/assets/9a176079-0256-4c5f-a73f-a9fbd4e489e3" />
+
 
 ## 6️⃣ 분류 성능 평가 지표
 
