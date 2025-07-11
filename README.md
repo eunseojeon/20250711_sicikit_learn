@@ -21,7 +21,7 @@
 4. 모델 평가: 학습된 모델의 예측 성능 평가
 5. 성능 개선: 모델 최적화를 통한 성능 향상
 
-- 지도 학습(Supervised learning): 라벨이 매겨진 데이터 (labeled datasets)를 학습하여 주어진 데이터를 분류하거나 결과를 예측
-- 비지도 학습(Unsupervised learning): 라벨이 없는 데이터 (unlablled datasets)를 학습하여  데이터에 숨겨진 패턴이나 구조를 발견
-- 강화 학습(Reinforcement learning): 라벨이 없는 데이터 학습 -> 출력에  대한 평가를  피드백으로 활용 ->  추론 성능 점진적 향상
+- **지도 학습**(Supervised learning): 라벨이 매겨진 데이터 (labeled datasets)를 학습하여 주어진 데이터를 분류하거나 결과를 예측
+- **비지도 학습**(Unsupervised learning): 라벨이 없는 데이터 (unlablled datasets)를 학습하여  데이터에 숨겨진 패턴이나 구조를 발견
+- **강화 학습**(Reinforcement learning): 라벨이 없는 데이터 학습 -> 출력에  대한 평가를  피드백으로 활용 ->  추론 성능 점진적 향상
 
