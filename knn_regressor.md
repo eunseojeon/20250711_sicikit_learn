@@ -1,5 +1,5 @@
-# Regression - Predicting Diabetes progress using KNN regression
-## Goal: 당뇨 환자들 관련 정보로부터 당뇨 진행 정도 예측 
+# Regression(회귀) - KNN 회귀를 사용한 당뇨병 진행 예측
+## 목표: 당뇨 환자들 관련 정보로부터 당뇨 진행 정도 예측 
 
 ### 1. 모듈 임포트
 ```python
