@@ -1,5 +1,7 @@
 # 20250711_sicikit_learn
 
+**출처**
+- [Python basic](./python3.md)
 
 ## 1️⃣ 머신러닝 & 데이터 분석
 ### 머신러닝 기본 개념
