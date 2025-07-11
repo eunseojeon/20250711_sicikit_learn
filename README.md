@@ -1,6 +1,6 @@
 # 20250711_sicikit_learn
 
-## 머신러닝 & 데이터 분석
+## 1️⃣ 머신러닝 & 데이터 분석
 ### 머신러닝 기본 개념
 - "Machine learning (ML) is a type of artificial intelligence that allows machines to learn from data without being explicitly programmed."
 - 머신러닝은 인공지능 (AI)의 한 분야로, 사람이 직접 프로그래밍 하지 않고 컴퓨터가 데이터를 입력으로 스스로 학습하는 기술이다 
