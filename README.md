@@ -5,8 +5,8 @@
 
 ## 1️⃣ 머신러닝 & 데이터 분석
 ### 머신러닝 기본 개념
-- 사람이 직접 프로그래밍하지 않고, 컴퓨터가 데이터를 입력받아 스스로 학습하는 인공지능(AI)의 한 분야입니다.
-- 경험을 통해 자동으로 성능을 개선하는 컴퓨터 프로그램 연구입니다.
+- 사람이 직접 프로그래밍하지 않고, **컴퓨터가 데이터를 입력받아** 스스로 학습하는 **인공지능(AI)의 한 분야**입니다.
+- 경험을 통해 **자동으로 성능을 개선**하는 컴퓨터 프로그램 연구입니다.
 - 참고 정의: "Machine learning is a type of artificial intelligence that allows machines to learn from data without being explicitly programmed.", "The study of computer programs that improve automatically through experience."
 
 <img width="902" height="508" alt="스크린샷 2025-07-11 11 57 42" src="https://github.com/user-attachments/assets/674e216a-fbbe-4484-96af-d47bedfc86b6" />
